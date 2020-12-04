@@ -1,5 +1,6 @@
 import turtle
 bob = turtle.Turtle()
+alice = turtle.Turtle()
 print(bob)
 
 # fd = avance
